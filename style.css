@@ -1,4 +1,4 @@
-h1{
+.center{
     text-align:center ;
 }
 h1{
@@ -29,16 +29,16 @@ span {
     background-color: rgb(185, 220, 232);
 }
 
-a1{
+.first{
     color: red;
 }
 
-a2{
+.second{
     color: yellow;
 }
 
 #two{
-    background-color: aquamarine;
+    background-color: rgb(160, 224, 146);
     width:100%;
     text-align: right;
 }
